@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3e5f8eb422a7deb0f3b77935",
+  "owner": "mk5ajyye",
+  "repo": "page-89f04ba2708f8a8bb06479fc",
+  "title": "CloudsCross",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "89f04ba2708f8a8bb06479fc",
+      "a": "CloudsCross",
+      "b": "机场官网线路发布页",
+      "entity": "CloudsCross",
+      "brand": "CloudsCross",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4d98331350c3ac58b0b7607298def3205b23c1c38c1afd710e158bc2d97c608f",
+      "content": {
+        "primary_entity": "CloudsCross",
+        "keyword1": "CloudsCross",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可连接使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选择适合的套餐",
+          "AI_DESCRIPTION": "，CloudsCross 提供基础版、旗舰版与团队版三档套餐，月付价格分别为 ¥15、¥35 和 ¥85，年付可享优惠。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，并配有 IPLC 专线游戏加速优化；团队版每月 1000GB、支持 20 台设备，适合小团队协作。按设备类型选择客户端，导入订阅即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版适合轻度使用，每月 100GB 流量、3 台设备，年付 ¥150。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备同时在线，每月 300GB 流量，月付 ¥35。",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备，拥有 VIP 专属高带宽节点与企业定制路由，月付 ¥85。",
+          "AI_FAQ_ANSWER_4": "可先根据设备类型下载对应客户端，再按照客户端文档导入订阅链接。",
+          "AI_FAQ_ANSWER_5": "月付灵活，年付更省；基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版支持几台设备？",
+          "AI_FAQ_QUESTION_3": "团队版有哪些额外权益？",
+          "AI_FAQ_QUESTION_4": "如何为我的设备配置客户端？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选更划算？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "三档套餐在流量、设备数和节点类型上各有侧重。",
+          "AI_FEATURES_TITLE": "套餐特色",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15，100GB 流量，适合手机或平板单设备日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版月付 ¥35，300GB 流量，5 台设备在线，IPLC 专线优化游戏延迟。",
+          "AI_FEATURE_TEXT_3": "团队版月付 ¥85，1000GB 流量，20 台设备，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "性能进阶",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "按需求选定套餐，再完成设备适配与订阅导入。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "CloudsCross 提供基础版、旗舰版与团队版三档套餐，覆盖 3 至 20 台设备，月付 ¥15 起，年付更划算。选好套餐后，按设备类型下载客户端，导入订阅即可连接使用。",
+          "AI_HERO_SUBTITLE": "多设备套餐按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐月付 ¥15 起",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线与流媒体解锁",
+          "AI_PLANS_INTRO": "基础版月付 ¥15，旗舰版月付 ¥35，团队版月付 ¥85；年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与在线设备数量，在基础版、旗舰版、团队版中选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备支持上限与节点类型，确认满足使用需求。",
+          "AI_STEP_TEXT_3": "下载对应客户端，依照客户端文档导入订阅链接，完成配置后连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "CloudsCross 套餐速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rjzevbd.cn",
+    "host": "rjzevbd.cn"
+  },
+  "file_hashes": {
+    "index.html": "1fbc34ab22e51314690c54981de5ac1781877e925dd5177dcd856edc9a288149",
+    "sitemap.xml": "5eedfc41d9c9dd9546ae80e643c62f703ba2e811cd0158413cf32b3ddc5cb6f4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8fd192916831793e978dd18a85f191702b12f366adc01ad05ef83bf9636f16e6",
+    "robots.txt": "ecb5fdc817533cbe845f26eaeca2b617ae7388c268a66e6a7a5a33ca29a046ff",
+    "f26d2d4c3625d9cd029162547941e087.txt": "26720aa1c2cea1923f0c6f0808434254e0d7259f3750a9319d6a4e489d20fa23"
+  },
+  "revision": "578cb2bd1d43eaf943164bef072ac6e1acb0c8278d3fcaaf834d79f1f99a6841"
+}

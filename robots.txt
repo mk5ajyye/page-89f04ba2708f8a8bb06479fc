@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rjzevbd.cn/sitemap.xml
